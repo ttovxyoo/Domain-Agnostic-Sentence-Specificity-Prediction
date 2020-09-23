@@ -30,7 +30,7 @@ The twitter, yelp, and movies data and annotations used in the paper is in datas
 
 Data format:
 
-twitters.txt is the sentences
+twitters.txt is the sentences we want to predict
 
 twitterv.txt are average specificity labeled by turkers for each sentence, permutated in the same order. 
 
